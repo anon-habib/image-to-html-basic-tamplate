@@ -1,0 +1,175 @@
+		/*common start*/
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #0F2656;
+}
+		/*common end*/
+
+		/*header start*/
+header {
+	border-bottom: 3px solid #eef0f3;
+	padding: 10px 0;
+}
+.wrapper {
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#logo {
+	width: 10%;
+	float: left;
+}
+#logo img {
+	width: 100%;
+}
+.menu {
+	width: 60%;
+	float: right;
+}
+.menu ul {
+	float: right;
+}
+.menu ul li {
+	list-style: none;
+	float: left;
+}
+.menu ul li a {
+	font-size: 18px;
+	color: #0F2656;
+	text-decoration: none;
+	margin: 0 25px;
+	display: inline-block;
+	transition: .33s;
+}
+.menu ul li a:hover {
+	color: #0c66ff;
+}
+.menu ul li:last-child a {
+	margin-right: 0;
+}
+		/*header end*/
+
+		/*banner start*/
+.banner {
+	padding-top: 50px;
+}
+.wrapper2 {
+	width: 60%;
+	margin: 0 auto;
+}
+.b_content {
+	text-align: center;
+}
+.b_content h1 {
+	font-size: 50px;
+	margin: 0;
+}
+.sky {
+	color: #008aff;
+}
+.b_content p {
+	line-height: 25px;
+	margin: 35px 0;
+}
+.b_image {
+	width: 75%;
+	margin: 0 auto;
+	/*border: 3px solid black;*/
+}
+.b_image img {
+	width: 100%;
+}
+		/*banner end*/
+
+		/*achievement start*/
+.achievement {
+	padding: 5px 5px 20px;
+}
+.achievement-wrapper {
+	width: 90%;
+	height: auto;
+	/*border: 1px solid black;*/
+	margin: 0 auto;
+}
+.top-content {
+	width: 60%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.top-content-left {
+	width: 48%;
+	float: left;
+	text-align: right;
+	margin-top: 20px;
+}
+.top-content-left p {
+	font-size: 17px;
+	color: #0f2656;
+}
+.kkk {
+	font-size: 45px;
+	font-weight: 700;
+	color: #f15767;
+}
+.top-content-right {
+	width: 48%;
+	font-size: 23px;
+	float: right;
+	text-align: left;
+}
+.top-content-right h1 {
+	font-size: 42px;
+}
+.bottom-content {
+	width: 90%;
+	margin: 25px auto 0;
+	/*border: blue solid 1px;*/
+	overflow: hidden;
+}
+.picture1 {
+	width: 30%;
+	float: left;
+	padding: 0 19px;
+}
+.picture1 img {
+	width: 100%;
+}
+.picture2 {
+	width: 30%;
+	float: left;
+	padding: 0 19px;
+}
+.picture2 img {
+	width: 100%;
+}
+.picture3 {
+	width: 30%;
+	float: left;
+	padding: 0 19px;
+}
+.picture3 img {
+	width: 100%;
+}
+		/*achievement end*/
+
+		/*footer start*/
+footer {
+	width: 100%;
+	background-color: #008aff;
+		margin-top: 30px;
+	/*padding-top: 10px;*/
+}
+footer p {
+	color: #6dc4ff;
+	text-align: center;
+	margin: auto;
+	padding-top: 30px;
+}
+#habib {
+	color: #fbfbff;
+}
+		/*footer end*/
